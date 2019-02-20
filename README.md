@@ -1,0 +1,1 @@
+Introductory Lectures on Deep Learning for Natural Language Processing. These lectures where given at a master in Data Science.
