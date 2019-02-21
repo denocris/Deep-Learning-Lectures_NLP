@@ -1,4 +1,9 @@
 <center> <h1>Useful References and Tutorials</h1> </center>
+
+
+<center> <h5>*"What I cannot create, I do not understand", R. Feynman*</h5> </center>
+
+
 ##### Statistics Concepts
 
 * [Getting Started with Statistics Concepts](http://www.statsoft.com/Textbook/Elementary-Statistics-Concepts/fbclid/IwAR2Wp--UwCXuoV0II1kvTwbZ2ZO6XGdVTgyXCd3-ZeRHE6Xr7YuQnkP0kRc)
