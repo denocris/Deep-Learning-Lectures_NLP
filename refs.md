@@ -1,7 +1,7 @@
 <center> <h1>Useful References and Tutorials</h1> </center>
 
 
-<center> <h5>*"What I cannot create, I do not understand", R. Feynman*</h5> </center>
+<center> <h5>"What I cannot create, I do not understand", R. Feynman</h5> </center>
 
 
 ##### Statistics Concepts
