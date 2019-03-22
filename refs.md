@@ -28,6 +28,10 @@
 * [Dive into Deep Learning](http://d2l.ai/index.html)
 : wonderful and complete tutorial using MXNet library (Amazon Research).
 
+* [MIT Introduction to Deep Learning](https://medium.com/tensorflow/mit-introduction-to-deep-learning-4a6f8dde1f0c): lectures on the fundamentals of NN and their applications in TensorFlow.
+
+* [TensorFlow for DL Research (Stanford Course)](https://web.stanford.edu/class/cs20si/2017/)
+
 ##### TensorFlow
 
 * [TensorFlow Official](https://www.tensorflow.org)
@@ -35,7 +39,6 @@
 : is a Python library built on TensorFlow that makes it easy to combine probabilistic models and deep learning on modern hardware.
 * [Google ML Glossary](https://developers.google.com/machine-learning/glossary/)
 : this glossary defines general ML terms as well as terms specific to TensorFlow.
-* [TensorFlow for DL Research (Stanford Course)](https://web.stanford.edu/class/cs20si/2017/)
 * [TensorFlow playground](http://playground.tensorflow.org/)
 : an interactive tool to visualize NN training.
 
@@ -112,6 +115,13 @@
 * [Wine price with TF](https://medium.com/tensorflow/predicting-the-price-of-wine-with-the-keras-functional-api-and-tensorflow-a95d1c2c1b03)
 * [Variational Auto Encoders](https://becominghuman.ai/variational-autoencoders-for-new-fruits-with-keras-and-pytorch-6d0cfc4eeabd)
 * [Poem Generator](https://www.analyticsvidhya.com/blog/2018/03/text-generation-using-python-nlp/)
+
+##### Quantum Machine learning
+
+* [Getting Started with QC](http://dataespresso.com/en/2018/07/22/Tutorial-Generating-random-numbers-with-a-quantum-computer-Python/): a python tutorial using PythonQ package
+
+* [Cirq Google](https://cirq.readthedocs.io/en/latest/): cirq is a Goolge python QC library.
+
 
 ##### Machine Learning and Physics
 
